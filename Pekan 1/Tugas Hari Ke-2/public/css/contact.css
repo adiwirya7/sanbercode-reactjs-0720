@@ -1,0 +1,45 @@
+body{
+    background-color: #f2f2f2;
+}
+.content {
+    background-color: white;
+    border-style: groove;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.hub {
+    margin: 2%;
+}
+.pesan {
+    margin: 2%;
+}
+h1 {
+    text-align: center;
+}
+p { margin: 0;}
+
+input {
+}
+a {
+    text-decoration: none; 
+    color: black;
+    font-size: large;
+    padding-left: 45%;
+}
+a:hover {
+    color: blue;
+}
+#nama,#email{
+    margin-left: 10%;
+}
+#lk {
+    margin-left: 13%;
+}
+#pr {
+    margin-left: 5%;
+}
+#text {
+    margin-left: 7%;
+}
