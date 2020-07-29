@@ -2,10 +2,10 @@ console.log("Soal 1");
 let r = 5;
 const phi =Math.PI;
 
-var luasLingkaran = (phi,r) => {
+let luasLingkaran = (phi,r) => {
     return (phi*r*r)
 } 
-var kelilingLingkaran = (phi,r) => {
+let kelilingLingkaran = (phi,r) => {
     return (phi*(r*2)) 
 } 
 
